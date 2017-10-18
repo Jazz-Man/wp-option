@@ -1,0 +1,15 @@
+{
+    "name": "jazzman/wp-option",
+    "authors": [
+        {
+            "name": "jazzman",
+            "email": "vsokolyk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JazzMan\\OptionsPage\\": ""
+        }
+    }
+}
